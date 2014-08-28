@@ -15,13 +15,13 @@ public class App extends Application{
 }
 ```
 
-## 发送验证短信，
+## 发送验证短信
 
 ```java
 AVOSCloud.requestSMSCode(phone, "应用名称", "操作名称", 10);  // 10 分钟内有效
 ```
 
-## 判别验证码，
+## 判别验证码
 
 ```java
  AVOSCloud.verifySMSCodeInBackground(code,new AVMobilePhoneVerifyCallback() {
