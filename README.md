@@ -2,6 +2,8 @@
 
 见文档 [短信验证码服务](https://cn.avoscloud.com/docs/android_guide.html#短信验证码服务)
 
+[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
+
 ## 安装
 导入 AVOSCloud SDK，
 同时注意 App.java
