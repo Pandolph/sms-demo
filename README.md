@@ -1,11 +1,11 @@
-# AVOS Cloud 中的短信验证示例
+# LeanCloud 中的短信验证示例
 
-见文档 [短信验证码服务](https://cn.avoscloud.com/docs/android_guide.html#短信验证码服务)
+见文档 [短信验证码服务](http://leancloud.cn/docs/android_guide.html#短信验证码服务)
 
-[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
+[LeanCloud 站点下载地址](http://download.leancloud.cn/demo/)
 
 ## 安装
-导入 AVOSCloud SDK，
+导入 LeanCloud SDK，
 同时注意 App.java
 ```java
 public class App extends Application{
