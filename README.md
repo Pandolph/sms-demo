@@ -26,7 +26,7 @@ AVOSCloud.requestSMSCode(phone, "应用名称", "操作名称", 10);  // 10 分�
 ## 判别验证码
 
 ```java
- AVOSCloud.verifySMSCodeInBackground(code,new AVMobilePhoneVerifyCallback() {
+ AVOSCloud.verifySMSCodeInBackground(code, phone, new AVMobilePhoneVerifyCallback() {
       @Override
       public void done(AVException e) {
         if(e==null){
