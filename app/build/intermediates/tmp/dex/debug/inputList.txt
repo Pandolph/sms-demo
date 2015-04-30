@@ -1,0 +1,6 @@
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/classes/debug
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/httpmime-4.2.4-93bddd2605eca8c75c7c66ac252ccaf6f4d1b4c6.jar
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-d0b880a4c0a6b4e68760434c5706f337ef4e1e9b.jar
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/httpcore-4.2.4-e7711c22aa1f9e546036c10a005f6c02211ae84c.jar
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v2.7-024c582ca945fa6e5c3f819ad779d25ca48baac7.jar
+/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/fastjson-1.1.37-leancloud-e39e8813f81035f53bbd526f51990b12361667f9.jar

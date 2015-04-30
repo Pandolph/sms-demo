@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/linpan1/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-d0b880a4c0a6b4e68760434c5706f337ef4e1e9b.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/v2.7/7a8a5fc433d3d0817e8f461ef1953e84c5b5c32e/avoscloud-sdk-v2.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a8a5fc433d3d0817e8f461ef1953e84c5b5c32e">
+        <dex dex="/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v2.7-024c582ca945fa6e5c3f819ad779d25ca48baac7.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.4/3b7f38df6de5dd8b500e602ae8c2dd5ee446f883/httpcore-4.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/httpcore-4.2.4-e7711c22aa1f9e546036c10a005f6c02211ae84c.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.4/dba4d4d224e2ca872af5be8d2992777583145478/httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/httpmime-4.2.4-93bddd2605eca8c75c7c66ac252ccaf6f4d1b4c6.jar" />
+    </item>
+    <item
+        jar="/Users/linpan1/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/fastjson/1.1.37-leancloud/f0eb5dd7cf5d5e186a49179c2e956e5a34c71956/fastjson-1.1.37-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f0eb5dd7cf5d5e186a49179c2e956e5a34c71956">
+        <dex dex="/Users/linpan1/Desktop/sms-demo/app/build/intermediates/pre-dexed/debug/fastjson-1.1.37-leancloud-e39e8813f81035f53bbd526f51990b12361667f9.jar" />
+    </item>
+
+</items>
